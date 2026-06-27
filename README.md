@@ -17,9 +17,9 @@ I am a **Senior Backend Engineer** passionate about building scalable architectu
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonyL13&count_private=true&show_icons=true&theme=radical" alt="Your GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyL13&layout=compact&theme=radical" alt="Top Languages" height="180" />
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub Stats" width="50%" />
+  <img src="profile/langs.svg" alt="Most Used Languages" width="38%" />
 </p>
 
 ---
