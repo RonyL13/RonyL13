@@ -17,10 +17,10 @@ I am a **Senior Backend Engineer** passionate about building scalable architectu
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="profile/stats.svg" alt="GitHub Stats" width="50%" />
   <img src="profile/langs.svg" alt="Most Used Languages" width="38%" />
-</p>
+</p> -->
 
 ---
 
