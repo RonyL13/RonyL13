@@ -1,6 +1,6 @@
 # Hi there, I'm Rony 👋
 
-I am a **Senior Backend Engineer** passionate about building scalable architectural systems, optimizing performance, and solving complex data challenges. When I'm not designing robust APIs or untangling asynchronous control flows, I love diving into game development.
+I am a **Senior Backend Engineer** passionate about building, optimizing, and learning new tech. I also enjoy diving into game development.
 
 ---
 
